@@ -1,14 +1,5 @@
 [
   {
     "package": "HiCcompare"
-  },
-  {
-    "package": "multiHiCcompare"
-  },
-  {
-    "package": "preciseTAD"
-  },
-  {
-    "package": "TADCompare"
   }
 ]
