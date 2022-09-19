@@ -13,8 +13,18 @@
 	url = https://github.com/dozmorovlab/multihiccompare
 	shallow = true
 	registered = true
+[submodule "preciseTAD"]
+	path = preciseTAD
+	url = https://github.com/dozmorovlab/precisetad
+	shallow = true
+	registered = true
 [submodule "SpectralTAD"]
 	path = SpectralTAD
 	url = https://github.com/dozmorovlab/spectraltad
+	shallow = true
+	registered = true
+[submodule "TADCompare"]
+	path = TADCompare
+	url = https://github.com/dozmorovlab/tadcompare
 	shallow = true
 	registered = true
