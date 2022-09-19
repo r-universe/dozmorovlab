@@ -8,3 +8,13 @@
 	url = https://github.com/dozmorovlab/hiccompare
 	shallow = true
 	registered = true
+[submodule "multiHiCcompare"]
+	path = multiHiCcompare
+	url = https://github.com/dozmorovlab/multihiccompare
+	shallow = true
+	registered = true
+[submodule "SpectralTAD"]
+	path = SpectralTAD
+	url = https://github.com/dozmorovlab/spectraltad
+	shallow = true
+	registered = true
