@@ -1,17 +1,17 @@
 [
   {
+    "package": "HiCcompare"
+  },
+  {
     "package": "multiHiCcompare"
   },
   {
-    "package": "HiCcompare"
+    "package": "preciseTAD"
   },
   {
     "package": "SpectralTAD"
   },
   {
     "package": "TADCompare"
-  },
-  {
-    "package": "preciseTAD"
   }
 ]

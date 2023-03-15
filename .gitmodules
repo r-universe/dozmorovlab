@@ -3,14 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HiCcompare"]
+	path = HiCcompare
+	url = https://github.com/dozmorovlab/hiccompare
+	shallow = true
+	registered = true
 [submodule "multiHiCcompare"]
 	path = multiHiCcompare
 	url = https://github.com/dozmorovlab/multihiccompare
 	shallow = true
 	registered = true
-[submodule "HiCcompare"]
-	path = HiCcompare
-	url = https://github.com/dozmorovlab/hiccompare
+[submodule "preciseTAD"]
+	path = preciseTAD
+	url = https://github.com/dozmorovlab/precisetad
 	shallow = true
 	registered = true
 [submodule "SpectralTAD"]
@@ -21,10 +26,5 @@
 [submodule "TADCompare"]
 	path = TADCompare
 	url = https://github.com/dozmorovlab/tadcompare
-	shallow = true
-	registered = true
-[submodule "preciseTAD"]
-	path = preciseTAD
-	url = https://github.com/dozmorovlab/precisetad
 	shallow = true
 	registered = true
