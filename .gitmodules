@@ -5,15 +5,15 @@
 [submodule "HiCcompare"]
 	path = HiCcompare
 	url = https://github.com/dozmorovlab/hiccompare
-[submodule "multiHiCcompare"]
-	path = multiHiCcompare
-	url = https://github.com/dozmorovlab/multihiccompare
-[submodule "preciseTAD"]
-	path = preciseTAD
-	url = https://github.com/dozmorovlab/precisetad
 [submodule "SpectralTAD"]
 	path = SpectralTAD
 	url = https://github.com/dozmorovlab/spectraltad
 [submodule "TADCompare"]
 	path = TADCompare
 	url = https://github.com/dozmorovlab/tadcompare
+[submodule "multiHiCcompare"]
+	path = multiHiCcompare
+	url = https://github.com/dozmorovlab/multihiccompare
+[submodule "preciseTAD"]
+	path = preciseTAD
+	url = https://github.com/dozmorovlab/precisetad
